@@ -1,0 +1,10 @@
+#inclue<stdio.h>
+
+
+int main ()
+{
+   printf("fuuny")
+
+
+
+}
